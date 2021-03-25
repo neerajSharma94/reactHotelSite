@@ -9,28 +9,25 @@ const AppProvider = ({ children }) => {
         featuredRooms: [],
         shortedRooms: [],
         loading: true,
-        type: 'all',
-        price: 0,
-        minPrice: 0,
-        maxPrice: 0,
-        minSize: 0,
-        maxSize: 0,
-        breakfast: false,
-        pets: false,
-        capacity: 1
+        type: 'all'
     })
 
-    useEffect(() => {
-        let rooms = formateData(data);
-        let featuredRooms = rooms.filter(room => room.featured === true);
-        let maxPrice = Math.max(...rooms.map(item => item.price));
-        let maxSize = Math.max(...rooms.map(item => item.size));
-        setState({
-            ...state,
-            rooms, featuredRooms, shortedRooms: rooms, loading: false, maxPrice, maxSize
-        })
 
-    }, []);
+
+    useEffect(() => {
+        const roomsData = () => {
+            let rooms = formateData(data);
+            let featuredRooms = rooms.filter(room => room.featured === true);
+            setState({ rooms, featuredRooms, shortedRooms: rooms, loading: false, type: "all" })
+
+        }
+        roomsData();
+        console.log('hello useEffect');
+
+    }, [])
+
+
+
 
     const getRoomInfo = (id) => {
         const tempRoom = state.rooms.find(item => item.id === id)
