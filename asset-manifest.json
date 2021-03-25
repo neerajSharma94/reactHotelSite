@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/reactHotelSite/static/css/main.034900e0.chunk.css",
+    "main.js": "/reactHotelSite/static/js/main.6aa46d4f.chunk.js",
+    "main.js.map": "/reactHotelSite/static/js/main.6aa46d4f.chunk.js.map",
+    "runtime-main.js": "/reactHotelSite/static/js/runtime-main.79e65705.js",
+    "runtime-main.js.map": "/reactHotelSite/static/js/runtime-main.79e65705.js.map",
+    "static/js/2.a8debd28.chunk.js": "/reactHotelSite/static/js/2.a8debd28.chunk.js",
+    "static/js/2.a8debd28.chunk.js.map": "/reactHotelSite/static/js/2.a8debd28.chunk.js.map",
+    "index.html": "/reactHotelSite/index.html",
+    "static/css/main.034900e0.chunk.css.map": "/reactHotelSite/static/css/main.034900e0.chunk.css.map",
+    "static/js/2.a8debd28.chunk.js.LICENSE.txt": "/reactHotelSite/static/js/2.a8debd28.chunk.js.LICENSE.txt",
+    "static/media/headerlogo.ebe222fb.svg": "/reactHotelSite/static/media/headerlogo.ebe222fb.svg",
+    "static/media/loading-arrow.dd29210f.gif": "/reactHotelSite/static/media/loading-arrow.dd29210f.gif",
+    "static/media/room-1.7c0a1547.jpeg": "/reactHotelSite/static/media/room-1.7c0a1547.jpeg",
+    "static/media/room10.5b658df9.jpeg": "/reactHotelSite/static/media/room10.5b658df9.jpeg",
+    "static/media/room11.18aabe9f.jpeg": "/reactHotelSite/static/media/room11.18aabe9f.jpeg",
+    "static/media/room12.681615dc.jpeg": "/reactHotelSite/static/media/room12.681615dc.jpeg",
+    "static/media/room13.1605f19e.jpeg": "/reactHotelSite/static/media/room13.1605f19e.jpeg",
+    "static/media/room14.c584b382.jpeg": "/reactHotelSite/static/media/room14.c584b382.jpeg",
+    "static/media/room15.92fc5b83.jpeg": "/reactHotelSite/static/media/room15.92fc5b83.jpeg",
+    "static/media/room16.cb51d97e.jpeg": "/reactHotelSite/static/media/room16.cb51d97e.jpeg",
+    "static/media/room17.8bba44c1.jpeg": "/reactHotelSite/static/media/room17.8bba44c1.jpeg",
+    "static/media/App.css": "/reactHotelSite/static/media/room19.76a25da2.jpeg",
+    "static/media/room2.7c0a1547.jpeg": "/reactHotelSite/static/media/room2.7c0a1547.jpeg",
+    "static/media/room3.99818cc9.jpeg": "/reactHotelSite/static/media/room3.99818cc9.jpeg",
+    "static/media/room4.2e00f4d3.jpeg": "/reactHotelSite/static/media/room4.2e00f4d3.jpeg",
+    "static/media/room5.1ab1ad3d.jpeg": "/reactHotelSite/static/media/room5.1ab1ad3d.jpeg",
+    "static/media/room6.5e27f67f.jpeg": "/reactHotelSite/static/media/room6.5e27f67f.jpeg",
+    "static/media/room7.a7c5e078.jpeg": "/reactHotelSite/static/media/room7.a7c5e078.jpeg",
+    "static/media/room8.3697aea3.jpeg": "/reactHotelSite/static/media/room8.3697aea3.jpeg",
+    "static/media/room9.d2c011f0.jpeg": "/reactHotelSite/static/media/room9.d2c011f0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e65705.js",
+    "static/js/2.a8debd28.chunk.js",
+    "static/css/main.034900e0.chunk.css",
+    "static/js/main.6aa46d4f.chunk.js"
+  ]
+}
