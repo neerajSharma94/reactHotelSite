@@ -24,7 +24,7 @@ const SingleRoom = () => {
         return (
             <div className="error">
                 <h3>no such room found...</h3>
-                <Link to="/room" className="btn-primary">back to rooms</Link>
+                <Link to="/reactHotelSite/room" className="btn-primary">back to rooms</Link>
             </div>
         )
 
@@ -36,7 +36,7 @@ const SingleRoom = () => {
     return <>
         <StyledHero img={heroImg}>
             <Banner title={`${newRoom.name}`}>
-                <Link to="/" className="btn-primary">return Home</Link>
+                <Link to="/reactHotelSite/" className="btn-primary">return Home</Link>
             </Banner>
         </StyledHero>
         <section className="single-room">

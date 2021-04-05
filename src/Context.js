@@ -22,7 +22,6 @@ const AppProvider = ({ children }) => {
 
         }
         roomsData();
-        console.log('hello useEffect');
 
     }, [])
 

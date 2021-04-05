@@ -11,7 +11,7 @@ const Room = ({ room }) => {
                     <h6>${price}</h6>
                     <p>per night</p>
                 </div>
-                <Link to={`/room/${id}`} className="btn-primary room-link">
+                <Link to={`/reactHotelSite/room/${id}`} className="btn-primary room-link">
                     features
         </Link>
             </div>

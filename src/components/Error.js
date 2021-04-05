@@ -8,7 +8,7 @@ function Error() {
         <>
             <Hero >
                 <Banner title="404" >
-                    <Link to="/"><button className="btn-primary">back to Home</button></Link>
+                    <Link to="/reactHotelSite/"><button className="btn-primary">back to Home</button></Link>
 
                 </Banner>
             </Hero>

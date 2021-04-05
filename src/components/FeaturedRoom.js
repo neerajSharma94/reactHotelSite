@@ -13,7 +13,6 @@ const FeaturedRoom = () => {
     }
 
 
-
     return (
         <section className="featured-rooms">
             <div className="featured-rooms-center">

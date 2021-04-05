@@ -13,13 +13,13 @@ function App() {
             <Router>
                 <Navbar />
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="/reactHotelSite/">
                         <Home />
                     </Route>
-                    <Route exact path="/rooms">
+                    <Route exact path="/reactHotelSite/rooms">
                         <Rooms />
                     </Route>
-                    <Route path="/room/:id">
+                    <Route path="/reactHotelSite/room/:id">
                         <SingleRoom />
                     </Route>
                     <Route path="*">
